@@ -28,7 +28,7 @@
            </tr>
            </table>
            <h2 style="text-align:center"> Вот как может выглядеть щенок этой породы</h2>
-           <img src="http://dogipedia.ru/wp-content/uploads/2018/05/Chem-kormit-pomeranskogo-shpica-e1525641658890.jpg" width="600px" height="400px" id="a2"</a>
+           <img src="http://dogipedia.ru/wp-content/uploads/2018/05/Chem-kormit-pomeranskogo-shpica-e1525641658890.jpg" width="600px" height="400px" id="a2">
         </main>
         <footer style="background-color:#1b9400">
             <p> Спасибо что выбрали наш сайт. Адрес "боброво 28" .Номер телефона +380671574604</p>
