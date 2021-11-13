@@ -1,7 +1,7 @@
 <html>
 <body style="background-color:#00bbae"> 
 <header style="background-color:#1b9400">
-    <img scr="https://petsi.net/images/dogbreed/pomeranian.jpg"width="20px" height="20px"/>
+    <img scr="https://petsi.net/images/dogbreed/pomeranian.jpg"width="20px" height="20px">
     <a href="#a1" style="color: #ff6600;text-align:center">таблица </a> 
     <a href="#a2" style="color: #ff6600;text-align:center"> Как выглядит щенок? </a>    
      </header>
@@ -28,7 +28,7 @@
            </tr>
            </table>
            <h2 style="text-align:center"> Вот как может выглядеть щенок этой породы</h2>
-           <img src="http://dogipedia.ru/wp-content/uploads/2018/05/Chem-kormit-pomeranskogo-shpica-e1525641658890.jpg" width="600px" height="400px" id="a2"/a>
+           <img src="http://dogipedia.ru/wp-content/uploads/2018/05/Chem-kormit-pomeranskogo-shpica-e1525641658890.jpg" width="600px" height="400px" id="a2"</a>
         </main>
         <footer style="background-color:#1b9400">
             <p> Спасибо что выбрали наш сайт. Адрес "боброво 28" .Номер телефона +380671574604</p>
