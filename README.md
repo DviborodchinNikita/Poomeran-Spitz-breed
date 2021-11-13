@@ -1,5 +1,4 @@
 <html>
-<title> Порода Померанский Шпиц </title>
 <body style="background-color:#00bbae"> 
 <header style="background-color:#1b9400">
     <img scr="https://petsi.net/images/dogbreed/pomeranian.jpg"width="20px" height="20px"/>
@@ -32,7 +31,7 @@
            <img src="http://dogipedia.ru/wp-content/uploads/2018/05/Chem-kormit-pomeranskogo-shpica-e1525641658890.jpg" width="600px" height="400px" id="a2"/a>
         </main>
         <footer style="background-color:#1b9400">
-            <p> Спасибо что выбради наш сайт. Адрес "боброво 28" .Номер телефона +380671574604</p>
+            <p> Спасибо что выбрали наш сайт. Адрес "боброво 28" .Номер телефона +380671574604</p>
             </footer>
         </body>
     </html>
