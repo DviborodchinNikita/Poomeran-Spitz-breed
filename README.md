@@ -1,7 +1,6 @@
 <html>
 <body style="background-color:#00bbae"> 
 <header style="background-color:#1b9400">
-    <img scr="https://petsi.net/images/dogbreed/pomeranian.jpg"width="20px" height="20px">
     <a href="#a1" style="color: #ff6600;text-align:center">таблица </a> 
     <a href="#a2" style="color: #ff6600;text-align:center"> Как выглядит щенок? </a>    
      </header>
